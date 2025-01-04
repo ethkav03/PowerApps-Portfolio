@@ -1,6 +1,5 @@
 # PowerApps Portfolio
 Collection of all apps I have designed and built using PowerApps and SharePoint.
-
 1. [OnePMO Canvas](#onepmo-canvas)
 2. [Engineering Dashboard](#engineering-dashboard)
 3. [Knowledge Management Tool](#knowledge-management-tool)
@@ -14,6 +13,12 @@ Collection of all apps I have designed and built using PowerApps and SharePoint.
 11. [Shipping Dashboard](#shipping-dashboard)
 12. [Weigh & Dispense Dashboard](#weigh-and-dispense-dashboard)
 13. [In Office Tracker](#in-office-tracker)
+
+Custom Built Functions
+1. [Approval Cycle]()
+2. [User Defaults]()
+3. [Custom Data Collection]()
+4. [Dynamic Emails]()
 
 ## OnePMO Canvas
 - Project management tool for the engineering department.
