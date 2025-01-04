@@ -16,13 +16,17 @@ Collection of all apps I have designed and built using PowerApps and SharePoint.
 13. [In Office Tracker](#in-office-tracker)
 
 ## OnePMO Canvas
-OnePMO Canvas
+- Project management tool for the engineering department.
+- Includes multiple approval and review cycle functions and email flows.
+- Custom function built using powerapps and sharepoint.
 
 ## Engineering Dashboard
 Engineering Dashboard
 
 ## Knowledge Management Tool
-Knowledge Management Tool
+- Tool for documenting and aggregating all information onsite.
+- Functions to allow custom data to be collected.
+- Functions to collect ‘default’ information for individual users and departments/subgroups.
 
 ## IDEAS Portal
 IDEAS Portal
@@ -34,7 +38,10 @@ Holiday Tracker
 WOW Checklist
 
 ## Learning And Development Dashboard
-Learning & Development Dashboard
+- Tool for administering learning and development curriculum.
+- Function to allow delegation of tickets.
+- Email flow to bridge gap between admins and users
+- Basic metrics to track progress.
 
 ## Vendor Dashboard
 Vendor Dashboard
