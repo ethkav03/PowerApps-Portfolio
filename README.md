@@ -21,7 +21,13 @@ Collection of all apps I have designed and built using PowerApps and SharePoint.
 - Custom function built using powerapps and sharepoint.
 
 ## Engineering Dashboard
-Engineering Dashboard
+<p>
+  <img style="width: 50%" src="./images/CPEG_01.PNG" />
+</p> 
+Functions to allow custom data to be collected.
+<p>
+  <img style="width: 50%" src="./images/CPEG_02.png" />
+</p>
 
 ## Knowledge Management Tool
 Tool for documenting and aggregating all information onsite.
