@@ -24,9 +24,18 @@ Collection of all apps I have designed and built using PowerApps and SharePoint.
 Engineering Dashboard
 
 ## Knowledge Management Tool
-- Tool for documenting and aggregating all information onsite.
-- Functions to allow custom data to be collected.
-- Functions to collect ‘default’ information for individual users and departments/subgroups.
+Tool for documenting and aggregating all information onsite.
+<p>
+  <img style="width: 50%" src="./images/KM_01.png" />
+</p> 
+Functions to allow custom data to be collected.
+<p>
+  <img style="width: 50%" src="./images/KM_02.png" />
+</p>
+Functions to collect ‘default’ information for individual users and departments/subgroups.
+<p>
+  <img style="width: 50%" src="./images/KM_03.png" />
+</p>
 
 ## IDEAS Portal
 IDEAS Portal
