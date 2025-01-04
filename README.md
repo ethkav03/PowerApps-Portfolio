@@ -41,7 +41,15 @@ Functions to collect ‘default’ information for individual users and departme
 IDEAS Portal
 
 ## Holiday Tracker
-Holiday Tracker
+Basic app to allow users to book annual leave.
+<p>
+  <img style="width: 50%" src="./images/Holiday_01.PNG" />
+</p>
+Can see all teams annual leave.
+<p>
+  <img style="width: 50%" src="./images/Holiday_02.png" />
+</p>
+Approval cycle with manager for requests.
 
 ## WOW Checklist
 WOW Checklist
