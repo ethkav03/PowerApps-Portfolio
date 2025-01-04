@@ -50,6 +50,9 @@ Can see all teams annual leave.
   <img style="width: 50%" src="./images/Holiday_02.png" />
 </p>
 Approval cycle with manager for requests.
+<p>
+  <img style="width: 50%" src="./images/Holiday_03.png" />
+</p>
 
 ## WOW Checklist
 WOW Checklist
@@ -61,10 +64,20 @@ WOW Checklist
 - Basic metrics to track progress.
 
 ## Vendor Dashboard
-Vendor Dashboard
+<p>
+  <img style="width: 50%" src="./images/Vendor_01.PNG" />
+</p>
+<p>
+  <img style="width: 50%" src="./images/Vendor_02.png" />
+</p>
 
 ## IPT Maintenance
-IPT Maintenance
+<p>
+  <img style="width: 50%" src="./images/Maintenance_01.PNG" />
+</p>
+<p>
+  <img style="width: 50%" src="./images/Maintenance_02.png" />
+</p>
 
 ## B+S Escalation Dashboard
 B+S Escalation Dashboard
