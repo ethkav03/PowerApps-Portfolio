@@ -21,7 +21,8 @@ Custom Built Functions
 ## OnePMO Canvas
 - Project management tool for the engineering department.
 - Includes multiple approval and review cycle functions and email flows.
-- Custom function built using powerapps and sharepoint.
+- Custom functions built using powerapps and sharepoint.
+- Integration with external PMO apllication using Power Automate
 
 ## Engineering Dashboard
 <p>
@@ -46,7 +47,12 @@ Functions to collect ‘default’ information for individual users and departme
 </p>
 
 ## IDEAS Portal
-IDEAS Portal
+<p>
+  <img style="width: 50%" src="./images/IDEA_01.png" />
+</p>
+<p>
+  <img style="width: 50%" src="./images/IDEA_02.png" />
+</p>
 
 ## Holiday Tracker
 Basic app to allow users to book annual leave.
@@ -71,10 +77,21 @@ Approval cycle with manager for requests.
 </p>
 
 ## Learning And Development Dashboard
-- Tool for administering learning and development curriculum.
-- Function to allow delegation of tickets.
-- Email flow to bridge gap between admins and users
-- Basic metrics to track progress.
+Tool for administering learning and development curriculum. Email flow to bridge gap between admins and users.
+<p>
+  <img style="width: 50%" src="./images/L&D_01.PNG" />
+</p>
+<p>
+  <img style="width: 50%" src="./images/L&D_02.png" />
+</p>
+Function to allow delegation of tickets.
+<p>
+  <img style="width: 50%" src="./images/L&D_03.png" />
+</p>
+Basic metrics to track progress.
+<p>
+  <img style="width: 50%" src="./images/L&D_04.png" />
+</p>
 
 ## Vendor Dashboard
 <p>
