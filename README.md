@@ -19,10 +19,25 @@ Custom Built Functions
 4. [Dynamic Emails]()
 
 ## OnePMO Canvas
-- Project management tool for the engineering department.
-- Includes multiple approval and review cycle functions and email flows.
-- Custom functions built using powerapps and sharepoint.
-- Integration with external PMO apllication using Power Automate
+Project management tool for the engineering department.
+<p>
+  <img style="width: 50%" src="./images/PMO_01.png" />
+</p>
+Custom functions built using powerapps and sharepoint.
+<p>
+  <img style="width: 50%" src="./images/PMO_02.png" />
+</p>
+Includes multiple approval and review cycle functions and email flows.
+<p>
+  <img style="width: 50%" src="./images/PMO_05.png" />
+</p>
+<p>
+  <img style="width: 50%" src="./images/PMO_04.png" />
+</p>
+Integration with external PMO apllication using Power Automate
+<p>
+  <img style="width: 50%" src="./images/PMO_03.png" />
+</p>
 
 ## Engineering Dashboard
 <p>
