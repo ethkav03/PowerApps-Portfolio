@@ -11,8 +11,6 @@ Collection of all apps I have designed and built using PowerApps and SharePoint.
 9. [IPT Maintenance](#ipt-maintenance)
 10. [B+S Escalation Dashboard](b+s-escalation-dashboard)
 11. [Shipping Dashboard](#shipping-dashboard)
-12. [Weigh & Dispense Dashboard](#weigh-and-dispense-dashboard)
-13. [In Office Tracker](#in-office-tracker)
 
 Custom Built Functions
 1. [Approval Cycle]()
@@ -65,7 +63,12 @@ Approval cycle with manager for requests.
 </p>
 
 ## WOW Checklist
-WOW Checklist
+<p>
+  <img style="width: 50%" src="./images/WOW_01.PNG" />
+</p>
+<p>
+  <img style="width: 50%" src="./images/WOW_02.png" />
+</p>
 
 ## Learning And Development Dashboard
 - Tool for administering learning and development curriculum.
@@ -98,10 +101,9 @@ WOW Checklist
 </p>
 
 ## Shipping Dashboard
-Shipping Dashboard
-
-## Weigh And Dispense Dashboard
-W&D Dashboard
-
-## In Office Tracker
-In Office Tracker
+<p>
+  <img style="width: 50%" src="./images/Shipping_01.png" />
+</p>
+<p>
+  <img style="width: 50%" src="./images/Shipping_02.png" />
+</p>
