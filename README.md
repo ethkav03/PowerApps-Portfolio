@@ -13,10 +13,10 @@ Collection of all apps I have designed and built using PowerApps and SharePoint.
 11. [Shipping Dashboard](#shipping-dashboard)
 
 Custom Built Functions
-1. [Approval Cycle]()
-2. [User Defaults]()
-3. [Custom Data Collection]()
-4. [Dynamic Emails]()
+1. [Approval Cycle](#approval-cycle)
+2. [User Defaults](#user-defaults)
+3. [Custom Data Collection](#custom-data-collection)
+4. [Dynamic Emails](#dynamic-emails)
 
 ## Apps
 ### OnePMO Canvas
@@ -147,3 +147,10 @@ Dashboard for tracking stock of storage warehouse, who is taking out and putting
 <p>
   <img style="width: 50%" src="./images/Shipping_02.png" />
 </p>
+
+## Custom Built Functions
+
+### Approval Cycle
+### User Defaults
+### Custom Data Collection
+### Dynamic Emails
