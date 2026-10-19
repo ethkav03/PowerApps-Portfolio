@@ -141,10 +141,3 @@ Dashboard for tracking stock of storage warehouse, who is taking out and putting
 <p>
   <img style="width: 50%" src="./images/Shipping_02.png" />
 </p>
-
-## Custom Built Functions
-
-### Approval Cycle
-### User Defaults
-### Custom Data Collection
-### Dynamic Emails
