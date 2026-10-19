@@ -12,12 +12,6 @@ Collection of all apps I have designed and built using PowerApps and SharePoint.
 10. [B+S Escalation Dashboard](b+s-escalation-dashboard)
 11. [Shipping Dashboard](#shipping-dashboard)
 
-Custom Built Functions
-1. [Approval Cycle](#approval-cycle)
-2. [User Defaults](#user-defaults)
-3. [Custom Data Collection](#custom-data-collection)
-4. [Dynamic Emails](#dynamic-emails)
-
 ## Apps
 ### OnePMO Canvas
 Project management tool for the engineering department.
